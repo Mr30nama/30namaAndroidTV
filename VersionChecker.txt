@@ -1,5 +1,5 @@
 {
-"versionName":"0.5.2",
-  "apkUrl":"https://github.com/Mr30nama/30namaAndroidTV/releases/download/v0.5.2/30namaAndroidTV.apk",
+"versionName":"0.5.3",
+  "apkUrl":"https://github.com/Mr30nama/30namaAndroidTV/releases/download/v0.5.3/30namaAndroidTV.apk",
   "forceUpdate": true
 }
